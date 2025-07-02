@@ -3,4 +3,4 @@ services:
   web:
     ports:
       - "80:8080"
-    image: "gscho/simple-go-app:latest"
+    image: "gscho/simple-go-app:latest2"
