@@ -1,7 +1,7 @@
 package main
 
 import (
-  "net/http"
+  "net/http2"
   "github.com/gin-gonic/gin"
   "os"
 )
